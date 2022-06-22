@@ -32,7 +32,7 @@ def createListOfWords(word):
     #Se crea la lista con todas las permutaciones posibles
     listOfPermutations=permutations(word)
     #Recorre el arreglo con cada uno de los conjuntos de las permutaciones realizadas y les hace join que volveria formar la palabra 
-    #de lo contrario imprimeria algo como ('c', 'a', 't') que al enviarlo a la api simplemente no encontraria nada
+    #de lo contrario imprimiria algo como ('c', 'a', 't') que al enviarlo a la api simplemente no encontraria nada
     for i in list(listOfPermutations):
         wordToValidate="".join(i)
         #Se imprime la permutacion que se esta validando en el momento
