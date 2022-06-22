@@ -8,4 +8,5 @@
 #utiliza un wrapper que los comportamientos requeridos sin necesidad de hacer herencia
 
 #Creacional: Prototype
-#Facilita la creacion de objetos de tal manera que, podemos crear objetos o mejor clonar los que ya existen, pero con la ventaja de no clonar o aclopar el codigo del objeto que estamos copiando
+#Facilita la creacion de objetos de tal manera que, podemos crear objetos o mejor clonar los que ya existen,
+#pero con la ventaja de no clonar o aclopar el codigo del objeto que estamos copiando
