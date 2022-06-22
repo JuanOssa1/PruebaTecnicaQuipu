@@ -1,5 +1,5 @@
 # PruebaTecnicaQuipu
-Aquí podras observar los puntos que he desarollado en la prueba tecnica, para cualquier duda puedes ponerte en conatcto a través de mi correo electronico.
+Aquí podras observar los puntos que he desarollado en la prueba tecnica, para cualquier duda puedes ponerte en contacto a través de mi correo electronico.
 
 # Pasos para ejecutar el punto 7
 1. Luego de clonar el repositorio entrar a la carpeta "Punto7" desde consola
