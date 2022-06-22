@@ -1,49 +1,30 @@
-product,price
-Gafas De Sol Hawkers Bel Air Hombre Y Mujer Elige Tu Color,155.000
-Nintendo Switch OLED 64GB Standard color  blanco y negro,71.300
-Taladro + Juego Herramentas Inalámbricas Matrix 20v 6 En 1 M,5.942
-Audífonos gamer inalámbricos Logitech G Series G733 kda con luz  rgb LED,1.819.900
-Kit Coctelería Bar Profesional 20 Piezas Cocktail Cocteles,1.749.900
-Asador Barril Marte Manijas Madera Teca Volcano Acero Inox,48.608
-Kit Billetera Y Llavero De Cuero Vintage Vélez,1.199.900
-Reloj Casio W_218h_2av Azul Hombre 100% Original,699.900
-Tenis Hombre 894 Tellenzi Calzado Nacional,19.442
-Bicicleta Estatica  Spinning Gimnasio ,619.900
-Reloj Invicta 22696 Silicone Negro Hombre,17.219
-Sandalia Playera De Cuero Para Hombre Contraste Color Vélez,149.000
-Taladro Percuto De 1/2` 650w Dewalt Dwd024-b3 Imp,4.139
-Juego De Herramienta 73pz Copas Lllaves Carro Moto Pretul,780.000
-"Laptop Dell Inspiron 3501 plata 15.55"", Intel Core i3 1115G4  8GB de RAM 256GB SSD, Intel UHD Graphics Xe G4 48EUs 60 Hz 1366x768px Windows 10 Home",65.000
-Scooter Patineta Eléctrica E9 Pro 350 Watts / Freno De Disco,169.900
-Set Fundas Sparco Asiento Forro Protector Silla 11 Piezas,14.158
-Camara Deportiva Gopro Hero 8 Black,169.900
-Audífonos Sony Bluetooth Noise Cancelling | Wh-1000xm5,113.900
-Tapete Para Silla Gamer 90x90 Antideslizante Y Lavable,3.164
-Yoga Tab 11 Lenovo Yt-j706f 8gb 256gb 11 Gris,189.990
-Casco Bicicleta Nutcase Vanastic Notion,89.990
-Billetera De Cuero Contrastes Negro Vélez,7.499
-Sandalias Nautica Para Hombre Alto Jn5141,619.900
-Mouse de juego Logitech  G Series Lightsync G203 negro,17.219
-"Radio para carro JDL JDL-5303 con USB, bluetooth y lector de tarjeta SD",1.109.900
-Bicicicleta Roadmaster Hurricane 29  Shimano Revoshift 21vel,549.900
-Gafas De Sol Hawkers One Hombre Y Mujer Elige Tu Color,15.275
-"Volante Carreras Logitech G923 Trueforce, Pc / Xbox X|s One",109.900
-Bota Hombre Outdoor Tellenzi 1570 Calzado Nacional Caballero,9.158
-Sierra Circular 7.1/4 5800rpm Dewalt Dwe560,402.406
-Silla Gamer Deportiva Ergonómica Con Sistema De Inclinación,11.178
-Botas Merrell Hombre Negro Vego Thermo Mid Ltr J589943-n11,159.990
-"Astro A50, Diadema Gamer Inalámbrica + Estación Base Pc Xbox",136.990
-Casco Shaft 526sp Solid Certificado,3.805
-"Logitech G305 Hero Edición K/da Lol, Mouse Gamer Inalámbrico",1.899.900
-Banda Caminadora Eléctrica Trotadora Plegable Hp,1.539.900
-Gafas De Sol Hawkers Warwick Hombre Y Mujer Elige Tu Color,42.775
-Sandalias Nautica Para Hombre Dolan Km1091,2.999.900
-Bota Hombre Outdoor 7220 Tellenzi Calzado Nacional,1.499.900
-Kit Taladro Percutor 1/2 Vvr + 88 Accesorios Black + Decker,41.664
-Sierra Caladora Black & Decker Ks501-b3,219.000
-Bicicleta De Ruta Roadmaster Fire Shimano 18 Vel Fren Disco ,170.905
-Televisor Samsung 58 Pulgadas  4k Uhd Un58au7000kx,14.242
-Escritorio Gamer Tipo T Altura Ajustable 63 Pulgadas,1.399.000
-"Cafetera Prensa Francesa Acero Inoxidable - 8 Tazas, 1 Litro",38.861
-Napoleon Bip500rbnss-3 Asador A Gas Natural Empotrable Acero,2.249.900
- Caminadora Trotadora Plegable Residencial  Banda Electrica ,187.492
+product,price,discount
+Gafas De Sol Hawkers Bel Air Hombre Y Mujer Elige Tu Color,155.000,54% OFF
+Nintendo Switch OLED 64GB Standard color  blanco y negro,71.300,3% OFF
+Taladro + Juego Herramentas Inalámbricas Matrix 20v 6 En 1 M,5.942,41% OFF
+Audífonos gamer inalámbricos Logitech G Series G733 kda con luz  rgb LED,1.819.900,32% OFF
+Kit Coctelería Bar Profesional 20 Piezas Cocktail Cocteles,1.749.900,50% OFF
+Asador Barril Marte Manijas Madera Teca Volcano Acero Inox,48.608,14% OFF
+Kit Billetera Y Llavero De Cuero Vintage Vélez,1.199.900,18% OFF
+Reloj Casio W_218h_2av Azul Hombre 100% Original,699.900,51% OFF
+Bicicleta Estatica  Spinning Gimnasio ,19.442,21% OFF
+Reloj Invicta 22696 Silicone Negro Hombre,619.900,25% OFF
+Sandalia Playera De Cuero Para Hombre Contraste Color Vélez,17.219,9% OFF
+Taladro Percuto De 1/2` 650w Dewalt Dwd024-b3 Imp,149.000,20% OFF
+Juego De Herramienta 73pz Copas Lllaves Carro Moto Pretul,4.139,34% OFF
+"Laptop Dell Inspiron 3501 plata 15.55"", Intel Core i3 1115G4  8GB de RAM 256GB SSD, Intel UHD Graphics Xe G4 48EUs 60 Hz 1366x768px Windows 10 Home",780.000,13% OFF
+Scooter Patineta Eléctrica E9 Pro 350 Watts / Freno De Disco,65.000,57% OFF
+Set Fundas Sparco Asiento Forro Protector Silla 11 Piezas,169.900,55% OFF
+Camara Deportiva Gopro Hero 8 Black,14.158,46% OFF
+Audífonos Sony Bluetooth Noise Cancelling | Wh-1000xm5,169.900,29% OFF
+Tapete Para Silla Gamer 90x90 Antideslizante Y Lavable,113.900,49% OFF
+Yoga Tab 11 Lenovo Yt-j706f 8gb 256gb 11 Gris,3.164,20% OFF
+Casco Bicicleta Nutcase Vanastic Notion,619.900,8% OFF
+Billetera De Cuero Contrastes Negro Vélez,17.219,6% OFF
+Sandalias Nautica Para Hombre Alto Jn5141,1.109.900,37% OFF
+Mouse de juego Logitech  G Series Lightsync G203 negro,549.900,55% OFF
+"Radio para carro JDL JDL-5303 con USB, bluetooth y lector de tarjeta SD",15.275,20% OFF
+Bicicicleta Roadmaster Hurricane 29  Shimano Revoshift 21vel,109.900,46% OFF
+Gafas De Sol Hawkers One Hombre Y Mujer Elige Tu Color,9.158,21% OFF
+"Volante Carreras Logitech G923 Trueforce, Pc / Xbox X|s One",402.406,49% OFF
+Bota Hombre Outdoor Tellenzi 1570 Calzado Nacional Caballero,11.178,3% OFF
