@@ -15,7 +15,7 @@ NEWSPIDER_MODULE = 'diaPadreScrapper.spiders'
 
 #Export as CSV Feed
 FEED_FORMAT = "csv"
-FEED_URI = "test.csv"
+FEED_URI = "ResultadosDelScrap.csv"
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent

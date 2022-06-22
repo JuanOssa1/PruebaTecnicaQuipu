@@ -3,7 +3,6 @@ import requests as rq
 import json
 
 word=input()
-#print([''.join(p) for p in permutations(word)])
 
 def searchWordInDictionary(word):
     URL="https://api.dictionaryapi.dev/api/v2/entries/en/"+word
@@ -15,14 +14,19 @@ def searchWordInDictionary(word):
         jsonInList= json.loads(jsonString)
         return jsonInList[0]['word']   
     else:
-        print("Esa palabra no existe")
+        return ""
         
-
 def createListOfWords(word):
+    listOfAnagrams=[]
     listOfPermutations=permutations(word)
     for i in list(listOfPermutations):
         wordToValidate="".join(i)
-        searchWordInDictionary(wordToValidate)
+        if(len(searchWordInDictionary(wordToValidate))>=1):
+            listOfAnagrams.append(searchWordInDictionary(wordToValidate))
+    if(len(listOfAnagrams)==2):
+        print("This word only have his own combination")
+    else:
+        print(listOfAnagrams)  
 
 createListOfWords(word)
 
