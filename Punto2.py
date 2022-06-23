@@ -1,6 +1,7 @@
 import numpy as np
 
 #Se recibe por consola la secuencia de numeros por ejemplo 3,4,5,6,4,3
+print("Ingrese la secuencia de numeros enteros delimitada por comas: ")
 numeros=input()
 #Especifico el separador de los numeros y creo la lista con ellos
 numerosString=numeros.split(",")

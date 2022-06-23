@@ -1,6 +1,7 @@
 import numpy as np
 from pyparsing import counted_array
 
+print("Ingrese la secuencia de numeros enteros delimitada por comas: ")
 #Inicializamos la variable contador que nos ayudara a llevar la cuenta de los numeros repetidos
 counter=0
 #Inicializamos el diccionario donde estaran los elementos repetidos y las veces que se repiten

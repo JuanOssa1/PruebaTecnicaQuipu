@@ -3,6 +3,7 @@ import requests as rq
 import json
 
 #ntrada por consola de la palabra a la que se le buscaran los anagramas
+print("Ingrese la palabra")
 word=input()
 
 #Esta funcion lo que hara es buscar en la Api publica de un diccionario en ingles una palabra y verufucara si existe
