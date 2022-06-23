@@ -4,7 +4,7 @@ import scrapy
 class DiapadreSpider(scrapy.Spider):
     #Se define el nombre del spider
     name = 'diaPadre'
-    #Se define la url que se usara para hacer el scraping
+    #Se define el link que se usara para hacer el scraping
     start_urls = ['https://listado.mercadolibre.com.co/_Deal_dia-del-padre-2022']
 
     #Funcion que realizara todo el web scraping
