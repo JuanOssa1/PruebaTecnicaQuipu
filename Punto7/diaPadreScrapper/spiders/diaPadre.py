@@ -25,7 +25,7 @@ class DiapadreSpider(scrapy.Spider):
             #para que la almacene y procese
             yield {
                 'product':offer.css(".ui-search-item__title.ui-search-item__group__element::text").extract(),
-                'price':offer.css(".price-tag-fraction::text").extract(),
+                'price':offer.css(".ui-search-price.ui-search-price--size-medium .ui-search-price__second-line .price-tag-text-sr-only::text" ).extract(),
                 'discounts':discounts
             }
 
